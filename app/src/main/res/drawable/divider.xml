@@ -5,4 +5,5 @@
     <size
         android:width="0.5dp"/>
     <solid android:color="@color/divider"/>
+
 </shape>
